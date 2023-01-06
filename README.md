@@ -1,6 +1,6 @@
 # Blog-Application-With-JWT
 
-# REST API for Blog Management WebService
+# REST APIs for Blog Application WebService
 
 <!-- ============================================  DETAILS ======================================================  -->
 
