@@ -4,22 +4,22 @@
 
 <!-- ============================================  DETAILS ======================================================  -->
 
-<li>An Individual project done using spring boot and spring security. Blog Management lets a user register and create blogs and als add other functions 
-such as delete post ,add comments, change roles, add a new category.
+<li>An Individual project done using spring boot and spring security. Blog Application lets a user register and create blogs and many people can comment on a particular post, it also have some PreAuthorize methods which can be accessible by the specific role.
+Other functions such as delete post ,add comments, change roles, add a new category.
 <li>The API's performs all the necessary operations in the database.
 <br>
 
 
 <!-- ============================================  AUTHOR ======================================================  -->
 
-<li>Project Video Link -https://drive.google.com/file/d/1muVVHPL30bgsq1cJq0G7lauOG5m0zRlM/view
+<li>Project Video Link -
 <!-- ============================================  FEATURES ======================================================  -->
 
   
 ## Features
 
 * User login authenticaiton using JWT token and spring security.
-* User and Admin have different responsibilites. User cannot acces admin API's
+* User and Admin have different responsibilites. User cannot acces admin APIs or moderator APIs if any.
 
 <!-- ============================================  TECH STACK ======================================================  -->
 
@@ -43,6 +43,5 @@ such as delete post ,add comments, change roles, add a new category.
 * Post Module
 * Category Module
 * Comment Module
-* Role Module
 * User Module
 
